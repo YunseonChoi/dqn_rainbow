@@ -2,5 +2,4 @@
 DQN with several algorithms
 
 ## Acknowledgements
- -  [@cmusjtuliuyuan/Rainbow][link1]
- [link1]: https://github.com/cmusjtuliuyuan/RainBow/tree/252f7ef80823b0d52b2992e05b38c9cbd7aed72b
+ -  systax: [@cmusjtuliuyuan/Rainbow](https://github.com/cmusjtuliuyuan/RainBow/tree/252f7ef80823b0d52b2992e05b38c9cbd7aed72b)
